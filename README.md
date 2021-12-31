@@ -7,7 +7,7 @@ Se le considera una estructura de datos **LIFO** (_last-in, first-out_), último
 # Uso de este proyecto
 
 Este proyecto fue realizado con el IDE Eclipse, por lo tanto se recomienda abrirlo con el mismo.
-Más detalles sobre la pila estática [aquí](https://gobitza.com/pila-dinamica-con-java/).
+Más detalles sobre la pila dinámica [aquí](https://gobitza.com/pila-dinamica-con-java/).
 
 # Operaciones de una pila dinámica
 
